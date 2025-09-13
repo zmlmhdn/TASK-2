@@ -1,0 +1,17 @@
+﻿$ ros2 bag info rosbag2_2025_09_13-12_08_15_0.db3
+
+closing.
+
+closing.
+[INFO] [1757737067.410529787] [rosbag2_storage]: Opened database 'rosbag2_2025_09_13-12_08_15_0.db3' for READ_ONLY.
+
+Files:             rosbag2_2025_09_13-12_08_15_0.db3
+Bag size:          8.3 MiB
+Storage id:        sqlite3
+Duration:          214.760089024s
+Start:             Sep 13 2025 12:08:16.258442612 (1757736496.258442612)
+End:               Sep 13 2025 12:11:51.018531636 (1757736711.018531636)
+Messages:          9915
+Topic information: Topic: /scan | Type: sensor_msgs/msg/LaserScan | Count: 1036 | Serialization Format: cdr
+                   Topic: /odom | Type: nav_msgs/msg/Odometry | Count: 6098 | Serialization Format: cdr
+                   Topic: /cmd_vel | Type: geometry_msgs/msg/Twist | Count: 2781 | Serialization Format: cdr

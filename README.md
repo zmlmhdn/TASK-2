@@ -37,6 +37,7 @@ $ ros2 topic hz /scan
 
 ## Replay simulation data
 $ ros2 bag play <bag_name>
-- 
+- replay the robot autonomously in rviz based on the movement recorded prior above
 
 $ ros2 bag info <bag_name>
+- display the recorded simulation info
